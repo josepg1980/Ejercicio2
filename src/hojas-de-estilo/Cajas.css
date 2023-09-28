@@ -1,0 +1,33 @@
+.contenedor-caja {
+    width: 900px;
+    height: 160px;
+    margin: 1.1px 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+
+.imagen-caja {
+    height: 100%;
+    width: 25%;
+}
+
+.contenedor-texto-caja {
+    text-align: center;
+    padding: 20px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.2rem;
+}
+
+.nombre-caja {
+    font-size: 1.4rem;
+}
+
+.texto-caja {
+    font-size: 1.1rem;
+    text-align: justify;
+    margin-top: 20px;
+}
